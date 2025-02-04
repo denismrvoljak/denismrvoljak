@@ -1,7 +1,7 @@
 ## Hey 👋 
 
 My name is Denis. I study Master's Degree within Business Intelligence at Aarhus University and I'm passionate about Data
-- I'm planning to use GitHub to present my Data Science projects, so stay tuned 🚀
+- I'm planning to use GitHub to present my Data Science/Data Engineering projects, so stay tuned 🚀
 <!--
 **denismrvoljak/denismrvoljak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
