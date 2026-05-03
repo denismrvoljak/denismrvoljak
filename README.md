@@ -1,18 +1,46 @@
-## Hey 👋 
+i’m a data engineer and master’s student in business intelligence at aarhus university
 
-My name is Denis. I study Master's Degree within Business Intelligence at Aarhus University and I'm passionate about Data
-- I'm planning to use GitHub to present my Data Science/Data Engineering projects, so stay tuned 🚀
-<!--
-**denismrvoljak/denismrvoljak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+i spend most of my time building ml systems, agent workflows, and small autonomous ai projects on a raspberry pi
 
-Here are some ideas to get you started:
+coding is my creative outlet
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+not in a “i love clean code” way
+
+more like sitting on a bus trying to explain to a stranger why writing software feels closer to art than engineering
+
+he didn’t get it
+
+i still think it’s true
+
+
+**what i do**
+
+instead of just training models or shipping dashboards
+
+i focus on systems that actually do things
+
+agents that act
+pipelines that run
+tools that remove manual work
+
+
+**current focus**
+
+ml systems that move beyond notebooks into production
+
+agentic workflows (multi-step, tool-using systems)
+
+raspberry pi experiments with autonomous ai
+
+data engineering pipelines that don’t break every week
+
+
+**side note**
+
+the world feels slightly unhinged right now
+
+ai is accelerating fast
+
+and yeah
+
+i’m probably a bit too deep in it as well
