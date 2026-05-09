@@ -10,5 +10,4 @@ more like sitting on a bus trying to explain to a stranger why writing software 
 
 
 **side note**
-
 the world feels slightly unhinged right now... ai is accelerating fast... and yeah... i’m probably a bit too deep in it as well
